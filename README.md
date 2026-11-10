@@ -1,16 +1,20 @@
-Student Grade Analysis
+# Student Grade Analysis
 
-My first data analysis project.
+My first data analysis project using Python and Pandas. 
 
+## Technologies 
 
+- Python 
+- Pandas 
+- Matplotlib 
 
-Technologies
+## Project Goal 
 
-Project Goal
+Analyzing student performance data and creating basic statistics. 
 
-Analyzing student performance data and creating visualizations.
+## Analysis 
 
-
-
-Analysis
-
+- Average grade 
+- Highest grade 
+- Lowest grade 
+- Top student
